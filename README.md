@@ -2,7 +2,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -85,5 +84,3 @@ Project Link: [https://github.com/herawenn/sms-gen](https://github.com/herawenn/
 [stars-url]: https://github.com/herawenn/sms-gen/stargazers
 [issues-shield]: https://img.shields.io/github/issues/herawenn/sms-gen.svg?style=for-the-badge
 [issues-url]: https://github.com/herawenn/sms-gen/issues
-[license-shield]: https://img.shields.io/github/license/herawenn/sms-gen.svg?style=for-the-badge
-[license-url]: https://github.com/herawenn/sms-gen/blob/master/LICENSE.txt
