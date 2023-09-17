@@ -13,13 +13,6 @@ SMS generator. Unlimited numbers, any region, and verified
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Prerequisites
-
-* python3
-  ```sh
-  sudo apt install python3
-  ```
-
 ### Installation
 
 1. Clone the repo
