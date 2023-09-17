@@ -1,5 +1,4 @@
 <!-- PROJECT SHIELDS -->
-
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
@@ -9,7 +8,7 @@
 
 # About The Project
 
-[![SMS GEN] [screenshot]](https://imgur.com/l1rUSH4)
+[![SMS GEN] [screenshot]](images/start.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -78,3 +77,12 @@ Alex Terrible - [discord_server](https://discord.gg/portlords) - herawen@cyberfe
 Project Link: [https://github.com/herawenn/sms-gen](https://github.com/herawenn/sms-gen)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
+[forks-url]: https://github.com/github_username/repo_name/network/members
+[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
+[stars-url]: https://github.com/github_username/repo_name/stargazers
+[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
+[issues-url]: https://github.com/github_username/repo_name/issues
+[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
+[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
