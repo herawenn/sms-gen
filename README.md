@@ -8,7 +8,7 @@
 
 # About The Project
 
-![terminal running sms-gen](https://imgur.com/l1rUSH4)
+![terminal running sms-gen](images/start.jpg)
 
 SMS generator. Unlimited numbers, any region, and verified
 
