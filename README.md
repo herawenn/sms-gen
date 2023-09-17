@@ -8,6 +8,8 @@
 
 # About The Project
 
+![terminal running sms-gen](https://imgur.com/l1rUSH4)
+
 SMS generator. Unlimited numbers, any region, and verified
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -38,8 +40,10 @@ SMS generator. Unlimited numbers, any region, and verified
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Choose the country code, and how many numbers you'd like to generate.\n
-Saves generated numbers to `results/generated.txt` / Verified numbers in `results/valid.txt` / Non verified numbers in `results/invalid.txt`
+Choose the country code, and how many numbers you'd like to generate.
+* Saves generated numbers in `results/generated.txt`
+* Saves verified numbers in `results/valid.txt`
+* Saves non verified numbers in `results/invalid.txt`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -69,10 +73,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Alex Terrible - herawen@cyberfear.com
-
-Discord server: https://discord.gg/portlordss
-
+[Telegram](https://t.me/mulicious) 
+[Discord](https://discord.gg/portlordss)
 Project Link: [https://github.com/herawenn/sms-gen](https://github.com/herawenn/sms-gen)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
