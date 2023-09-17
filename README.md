@@ -8,10 +8,9 @@
 
 # About The Project
 
-[![SMS GEN] [screenshot]](images/start.png)
+SMS generator. Unlimited numbers, any region, and verified
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ### Prerequisites
 
@@ -31,15 +30,15 @@
    pip install -r requirements.txt
    ```
 3. Run the program
-```sh
-pip gen.py
-```
+   ```sh
+   pip gen.py
+   ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Choose the country code, and how many numbers you'd like to generate.
+Choose the country code, and how many numbers you'd like to generate.\n
 Saves generated numbers to `results/generated.txt` / Verified numbers in `results/valid.txt` / Non verified numbers in `results/invalid.txt`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -60,7 +59,6 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 <!-- LICENSE -->
 ## License
 
@@ -68,21 +66,22 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 <!-- CONTACT -->
 ## Contact
 
-Alex Terrible - [discord_server](https://discord.gg/portlords) - herawen@cyberfear.com
+Alex Terrible - herawen@cyberfear.com
+
+Discord server: https://discord.gg/portlordss
 
 Project Link: [https://github.com/herawenn/sms-gen](https://github.com/herawenn/sms-gen)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+[forks-shield]: https://img.shields.io/github/forks/herawenn/sms-gen.svg?style=for-the-badge
+[forks-url]: https://github.com/herawenn/sms-gen/network/members
+[stars-shield]: https://img.shields.io/github/stars/herawenn/sms-gen.svg?style=for-the-badge
+[stars-url]: https://github.com/herawenn/sms-gen/stargazers
+[issues-shield]: https://img.shields.io/github/issues/herawenn/sms-gen.svg?style=for-the-badge
+[issues-url]: https://github.com/herawenn/sms-gen/issues
+[license-shield]: https://img.shields.io/github/license/herawenn/sms-gen.svg?style=for-the-badge
+[license-url]: https://github.com/herawenn/sms-gen/blob/master/LICENSE.txt
