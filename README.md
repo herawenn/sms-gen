@@ -3,15 +3,11 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 # About The Project
 
 ![running the tool](https://i.imgur.com/l1rUSH4.jpg)
 
 SMS generator. Unlimited numbers, any region, and verified
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Installation
 
@@ -27,7 +23,6 @@ SMS generator. Unlimited numbers, any region, and verified
    ```sh
    pip gen.py
    ```
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -36,8 +31,6 @@ Choose the country code, and how many numbers you'd like to generate.
 * Saves generated numbers in `results/generated.txt`
 * Saves verified numbers in `results/valid.txt`
 * Saves non verified numbers in `results/invalid.txt`
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -52,15 +45,6 @@ Don't forget to give the project a star! Thanks again!
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 ## Contact
